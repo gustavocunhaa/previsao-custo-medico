@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1685114007302
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1685114015290
+name: gbr-insurance-cost
+run_id: c11d0a7d5ea84fcda7c080694c51d2fa
+run_link: ''
+source: file:///c:/Users/gusta/Desktop/code/previsao-custo-medico/mlruns/826251267040691654/c11d0a7d5ea84fcda7c080694c51d2fa/artifacts/GradientBoostingRegressor(random_state=1337)
+status: READY
+status_message: null
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gusta/Desktop/code/previsao-custo-medico/mlruns/826251267040691654/c11d0a7d5ea84fcda7c080694c51d2fa/artifacts
+end_time: 1685113909377
+entry_point_name: ''
+experiment_id: '826251267040691654'
+lifecycle_stage: active
+run_id: c11d0a7d5ea84fcda7c080694c51d2fa
+run_name: Gradient Boosting
+run_uuid: c11d0a7d5ea84fcda7c080694c51d2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685113906671
+status: 3
+tags: []
+user_id: gusta

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gusta/Desktop/code/previsao-custo-medico/mlruns/826251267040691654/22401bff5c3c4742b88bcd588d6b7e9a/artifacts
+end_time: 1685113904169
+entry_point_name: ''
+experiment_id: '826251267040691654'
+lifecycle_stage: active
+run_id: 22401bff5c3c4742b88bcd588d6b7e9a
+run_name: Linear
+run_uuid: 22401bff5c3c4742b88bcd588d6b7e9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685113900919
+status: 3
+tags: []
+user_id: gusta
