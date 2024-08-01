@@ -4,4 +4,13 @@
 
 **Resultados:** Experimentos realizados e trackeados, todos salvos em repositório local permitindo reprodutibilidade, além de endpoint Flask que se utiliza do melhor modelo encontrado em produção. Toda a gerência do ciclo de ML Ops feito pelo ML Flow e sua UI.
 
-![](doc/ml-flow.gif)
+![results](doc/ml-flow.gif)
+
+
+### Arquitetura do projeto
+
+Todo o treinamento dos modelos, o registro e armazenamento do modelo, a escolha do melhor e seu deploy são realizados na interface do ML Flow.
+
+A grande vantagem da ferramenta, até em projetos mais simples, é que o modelo pode ser facilmente carregado e disponibilizado para consumo via API, onde para o usuário final o Endpoint seria mesmo apenas alterando para qual modelo ele está carregando.
+
+![arch](doc/[GitHub]%20Arch%20-%20custo%20medico.jpg)
